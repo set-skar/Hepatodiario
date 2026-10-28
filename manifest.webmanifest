@@ -1,0 +1,11 @@
+{
+  "name": "HepatoDiario",
+  "short_name": "HepatoDiario",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f5f8f3",
+  "theme_color": "#f5f8f3",
+  "lang": "es",
+  "description": "Diario de alimentación y síntomas digestivos",
+  "icons": []
+}
